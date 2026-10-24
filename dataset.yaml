@@ -1,0 +1,15 @@
+path: /kaggle/working/yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: no_damage
+  1: lost parts
+  2: torn
+  3: dent
+  4: paint scratch
+  5: hole
+  6: broken glass
+  7: broken lamp
+
+nc: 8
